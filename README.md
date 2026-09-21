@@ -19,3 +19,9 @@ npm ci
 
 # Install Playwright browsers
 npx playwright install --with-deps
+
+
+## Mi práctica
+
+ Trabajar con GitHub y Playwright.
+ pequeño cambio
